@@ -1,4 +1,5 @@
 # Quantigo Assignment
+I have added these diagrams for a understading of the scripts
 <div align="center">
   
 ### The total dataflow of Assignment 1

@@ -1,7 +1,12 @@
-# dropperTemp
-![alt text](img/ass1.jpg?raw=true "Title")
+# Quantigo Assignment
+I have added these diagrams for a understading of the scripts
+<div align="center">
+  
+### The total dataflow of Assignment 1
+![alt text](img/assignment1.jpg?raw=true "Title")
 
-<p align="center">
-  <img src="img/ass2.jpg" width="350" title="hover text">
-  <img src="img/ass1.jpg" width="350" alt="accessibility text">
-</p>
+### The total dataflow of Assignment 2
+![alt text](img/ass2.jpg?raw=true "Title")
+
+### How to run?
+I have used pycharm to develop these scripts. Its would be better you use it too. Open the file in pycharm and right click->run file.py

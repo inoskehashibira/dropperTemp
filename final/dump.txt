@@ -1,0 +1,55 @@
+﻿//Teacher t1 = new Teacher { Name = "Mr karim", userName = "karim01", Password = 1010 };
+//Student s1 = new Student { Name = "firstStudent", userName = "f1s1" };
+//Course c1 = new Course { CourseName = "j1", Fees = 45200 };
+
+
+
+
+//Teacher t1 = new Teacher { Name = "Mr karim", userName = "karim01", Password = 1010 };
+//Student s1 = new Student { Name = "Abdul", userName = "abdul01", Password = 1010 };
+//Course c1 = new Course { CourseName = "java", Fees = 9000 };
+
+
+
+
+//Course c = new Course { CourseName = "kotlin", Fees = 7000 };
+
+//Teacher t2 = new Teacher { Name = "Mr Rahim", userName = "Rahim01", Password = 1010 };
+//Student s2 = new Student { Name = "Mahin", userName = "Mahin01" };
+//Course c2 = new Course { CourseName = "devops", Fees = 5000, TeacherID = 11 };
+
+//Teacher t3 = new Teacher { Name = "Mr jahid", userName = "jahid01", Password = 1010 };
+//Student s3 = new Student { Name = "towkir", userName = "towkir01" };
+//Course c3 = new Course { CourseName = "Rust", Fees = 4520, TeacherID = 12 };
+
+
+//Attendance a1 = new Attendance { date = DateTime.Now, CourseID = 5, StudentID = 12 };
+
+
+//context.Add(s1);
+//context.Add(c1);
+
+//context.Add(t2);
+//context.Add(s2);
+//context.Add(c2);
+
+//context.Add(t3);
+//context.Add(s3);
+//context.Add(c3);
+
+//assigning Course To students
+//Student s = context.students.Where(x => x.Id == 1).FirstOrDefault();
+//s.RegisteredCourses = new List<Registration>();
+
+//Course c11 = context.courses.Where(x => x.CourseName == "java").FirstOrDefault();
+
+//s.RegisteredCourses.Add(new Registration { course = c11 });
+
+
+//assigning Course To Teachers
+//Teacher t = context.teachers.Where(x => x.Id == 1).FirstOrDefault();
+//t.AssignedCourses = new List<AssignedCourse>();
+
+//Course c11 = context.courses.Where(x => x.Id == 3).FirstOrDefault();
+
+//t.AssignedCourses.Add(new AssignedCourse { course = c11 });

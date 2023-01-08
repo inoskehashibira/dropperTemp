@@ -1,0 +1,94 @@
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9Rw5",
+  "startTime": "Fri Jan 21 2023 09:30:00",
+  "endTime": "Fri Jan 21 2023 11:30:00",
+  "courseName": "Chemistry",
+  "teacherName": "Jane Doe",
+  "totalMarks": "20",
+  "createdAt": "Fri Jan 21 2023 09:00:00",
+  "questions": [
+    {
+      "question": "What is the symbol for the element oxygen?",
+      "marks": "3",
+      "correct_answer": "O",
+      "options": ["N", "O", "H", "C"],
+      "question_type": "multiple-choice",
+      "q_id": 1
+    },
+    {
+      "question": "The noble gases are chemically unreactive.",
+      "marks": "3",
+      "correct_answer": "True",
+      "options": ["True", "False"],
+      "question_type": "true-false",
+      "q_id": 2
+    },
+    {
+      "question": "Which of the following is a chemical property?",
+      "marks": "3",
+      "correct_answer": "Flammability",
+      "options": ["Color", "Density", "Flammability", "Melting point"],
+      "question_type": "multiple-choice",
+      "q_id": 3
+    },
+    {
+      "question": "The unit for pressure in the metric system is the pascal.",
+      "marks": "4",
+      "correct_answer": "True",
+      "options": ["True", "False"],
+      "question_type": "true-false",
+      "q_id": 4
+    },
+    {
+      "question": "Which of the following is NOT a state of matter?",
+      "marks": "2",
+      "correct_answer": "Plasma",
+      "question_type": "fill-in-the-blank",
+      "q_id": 5
+    },
+    {
+      "question": "What is the formula for the kinetic energy of an object?",
+      "marks": "3",
+      "correct_answer": "KE = 1/2 * m * v^2",
+      "options": [
+        "KE = m * g * h",
+        "KE = m * v",
+        "KE = 1/2 * m * v^2",
+        "KE = m * a"
+      ],
+      "question_type": "multiple-choice",
+      "q_id": 6
+    },
+    {
+      "question": "Is the speed of light constant?",
+      "marks": "3",
+      "correct_answer": "True",
+      "options": ["True", "False"],
+      "question_type": "true-false",
+      "q_id": 7
+    },
+    {
+      "question": "Which of the following is a unit of work?",
+      "marks": "3",
+      "correct_answer": "Joule",
+      "options": ["Meter", "Second", "Kilogram", "Joule"],
+      "question_type": "multiple-choice",
+      "q_id": 8
+    },
+    {
+      "question": "What is the formula for the period of a simple pendulum?",
+      "marks": "4",
+      "correct_answer": "T = 2pisqrt(L/g)",
+      "question_type": "fill-in-the-blank",
+      "q_id": 9
+    },
+    {
+      "question": "Is the wavelength of electromagnetic radiation inversely proportional to its frequency?",
+      "marks": "2",
+      "correct_answer": "True",
+      "options": ["True", "False"],
+      "question_type": "true-false",
+      "q_id": 10
+    }
+  ]
+}
